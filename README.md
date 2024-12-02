@@ -1,4 +1,5 @@
-# ![AI Course Banner](https://softuni.bg/content/images/header/white-horizontal-logo-university.svg) Artificial Intelligence modul  - Personal Exam Projects Showcase
+# ![AI Course Banner](https://softuni.bg/content/images/header/white-horizontal-logo-university.svg) Artificial Intelligence modul  - Personal Exam Projects Showcase 
+Yasen Ivanov
 
 ## Introduction
 
@@ -18,6 +19,13 @@ Below is a list of projects included in this showcase:
      <img src="https://github.com/vjfrosty/Softuni-Artificial-Intelligence-projects/blob/main/01_Math-Concepts-for-Developers/Math%20Concepts%20for%20Developers%20-%20March%202024%20-%20Certificate.jpeg" alt="Certificate" width="400">
 ## Installation
 
+2. **Fraud Detection in Job Postings: A Comprehensive ML Pipeline Tutorial** - **course: Machine Learning.**
+
+   - **Description:** Fraudulent job postings pose a significant threat to job seekers, potentially leading to financial losses, identity theft, and wasted time. This project develops a machine learning solution to automatically detect fraudulent job postings, helping protect job seekers and maintain the integrity of job platforms.
+   - **Technologies Used:** NLTK,XGBoost,SHAP,SMOTE.
+   - **Link to Project:** [GitHub Repository](https://github.com/vjfrosty/Fraud-Detection-in-Job-Postings-A-Comprehensive-ML-Pipeline-Tutorial)
+   - **Certificate:**
+   - <img src="https://github.com/vjfrosty/Softuni-Artificial-Intelligence-projects/blob/main/01_Math-Concepts-for-Developers/Math%20Concepts%20for%20Developers%20-%20March%202024%20-%20Certificate.jpeg" alt="Certificate" width="400">
 To run any of the projects locally, follow these steps:
 
 1. Clone the repository:
