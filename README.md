@@ -1,9 +1,8 @@
 # ![AI Course Banner](https://softuni.bg/content/images/header/white-horizontal-logo-university.svg) Artificial Intelligence modul  - Personal Exam Projects Showcase 
-Yasen Ivanov
 
 ## Introduction
 
-This repository contains the final exam projects developed by student Yasen Ivanov as part of the Artificial Intelligence modul by Software University. The  projects will encompass various aspects of artificial intelligence, including machine learning, computer vision, and more. Each project is a testament to the hard work and creativity of the student.
+This repository contains the final exam projects developed by student **Yasen Ivanov** as part of the Artificial Intelligence modul by Software University. The  projects will encompass various aspects of artificial intelligence, including machine learning, computer vision, and more. Each project is a testament to the hard work and creativity of the student.
 
 ## Project List
 
@@ -17,8 +16,8 @@ Below is a list of projects included in this showcase:
    - **Certificate:**
    - 
      <img src="https://github.com/vjfrosty/Softuni-Artificial-Intelligence-projects/blob/main/01_Math-Concepts-for-Developers/Math%20Concepts%20for%20Developers%20-%20March%202024%20-%20Certificate.jpeg" alt="Certificate" width="400">
-## Installation
 
+     
 2. **Fraud Detection in Job Postings: A Comprehensive ML Pipeline Tutorial** - **course: Machine Learning.**
 
    - **Description:** Fraudulent job postings pose a significant threat to job seekers, potentially leading to financial losses, identity theft, and wasted time. This project develops a machine learning solution to automatically detect fraudulent job postings, helping protect job seekers and maintain the integrity of job platforms.
@@ -26,8 +25,9 @@ Below is a list of projects included in this showcase:
    - **Link to Project:** [GitHub Repository](https://github.com/vjfrosty/Fraud-Detection-in-Job-Postings-A-Comprehensive-ML-Pipeline-Tutorial)
    - **Certificate:**
    - <img src="https://github.com/vjfrosty/Softuni-Artificial-Intelligence-projects/blob/main/01_Math-Concepts-for-Developers/Math%20Concepts%20for%20Developers%20-%20March%202024%20-%20Certificate.jpeg" alt="Certificate" width="400">
-To run any of the projects locally, follow these steps:
 
+## Installation
+To run any of the projects locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/vjfrosty/Softuni-Artificial-Intelligence-projects.git
