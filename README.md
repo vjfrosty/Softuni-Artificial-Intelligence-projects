@@ -31,3 +31,9 @@ To run any of the projects locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/vjfrosty/Softuni-Artificial-Intelligence-projects.git
+## License
+MIT
+
+## Contact
+iasen.ivanov@gmail.com
+   
